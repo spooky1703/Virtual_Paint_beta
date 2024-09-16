@@ -14,6 +14,14 @@ Para poder ejecutar el programa 'Virtual Paint', se deben cumplir los siguientes
 
 ## Instalación
 
+Para una ejecucion sin problemas el directorio debe de tener la siguiente estructura
+
+virtual-paint-main/
+│
+├── virtual_paint.py       # Archivo de código principal
+├── tools.png              # Imagen de herramientas que se utiliza en el programa
+└── README.md              # Archivo con la descripción del proyecto
+
 Para instalar las dependencias necesarias, puedes ejecutar los siguientes comandos en la terminal del directorio donde tienes instalado el programa:
 
 1. `pip install opencv-python`
