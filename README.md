@@ -57,15 +57,15 @@ La herramienta se selecciona automáticamente cuando el usuario mueve la mano co
 
 Para seleccionar una herramienta, simplemente mueve tu mano con el dedo índice levantado al área superior izquierda, enseguida saldrá un círculo amarillo que indica qué herramienta estás tomando. Mantén tu mano en la herramienta deseada hasta que el programa confirme la selección.
 
-![Selección de herramienta](media/image1.png)
+![Selección de herramienta](images/unoarriba.avif)
 
 Pon tu mano así para poder seleccionar una de las 5 herramientas disponibles
 
-![Mano libre](media/image2.png)
+![Mano libre](images/cerrada.jpg)
 
 Si quieres mover tu mano libremente sin seleccionar o dibujar haz esta seña y el programa no hará nada
 
-![Mano para dibujar](media/image3.png)
+![Mano para dibujar](images/dosarriba.jpg)
 
 Cuando ya hayas seleccionado una herramienta haz esta seña y siguiendo los pasos de la siguiente sección empezarás a realizar trazos sobre la cámara.
 
