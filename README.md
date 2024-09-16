@@ -1,5 +1,10 @@
 # Virtual Paint
 
+**Proyecto realizado para el concurso de prototipos por:**
+- Abril Sinai Mendoza Granados
+- Karla Yireh Rangel Perez
+- Harim Percastegui Rangel
+
 ## Introducción
 
 El programa 'Virtual Paint' es una aplicación que permite a los usuarios dibujar formas geométricas y trazos libres utilizando sus manos como controladores, detectadas a través de una cámara web. Está diseñado para ser intuitivo y fácil de usar, permitiendo a cualquier persona crear dibujos en tiempo real mediante el uso de simples gestos con las manos.
