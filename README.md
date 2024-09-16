@@ -14,21 +14,33 @@ Para poder ejecutar el programa 'Virtual Paint', se deben cumplir los siguientes
 
 ## Instalación
 
-Para una ejecucion sin problemas el directorio debe de tener la siguiente estructura
+1. Asegúrate de tener la siguiente estructura de directorio:
 
-virtual-paint-main/
-│
-├── virtual_paint.py       # Archivo de código principal
-├── tools.png              # Imagen de herramientas que se utiliza en el programa
-└── README.md              # Archivo con la descripción del proyecto
+   ```
+   virtual-paint-main/
+   │
+   ├── virtual_paint.py       # Archivo de código principal
+   ├── tools.png              # Imagen de herramientas que se utiliza en el programa
+   └── README.md              # Archivo con la descripción del proyecto
+   ```
 
-Para instalar las dependencias necesarias, puedes ejecutar los siguientes comandos en la terminal del directorio donde tienes instalado el programa:
+2. Para instalar las dependencias necesarias, ejecuta los siguientes comandos en la terminal desde el directorio `virtual-paint-main`:
 
-1. `pip install opencv-python`
-2. `pip install mediapipe`
-3. `pip install numpy`
+   ```
+   pip install opencv-python
+   pip install mediapipe
+   pip install numpy
+   ```
 
-Luego, asegúrate de tener una cámara conectada y simplemente ejecuta el archivo del programa. Es probable que le pida acceso a la cámara y luego el programa se cierre, solo vuelva a ejecutar para que prenda.
+3. Asegúrate de tener una cámara conectada.
+
+4. Ejecuta el archivo del programa con el comando:
+
+   ```
+   python virtual_paint.py
+   ```
+
+   Es probable que te pida acceso a la cámara y luego el programa se cierre. Si esto ocurre, simplemente vuelve a ejecutar el comando para iniciar el programa.
 
 ## Uso del Programa
 
